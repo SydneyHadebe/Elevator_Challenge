@@ -3,11 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D7CE9A0-9A07-45AE-8EE6-FF8BB45E3D3F}|..\\ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge.tests\\addpassangertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D7CE9A0-9A07-45AE-8EE6-FF8BB45E3D3F}|..\\ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge.tests\\moveelevatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7CE9A0-9A07-45AE-8EE6-FF8BB45E3D3F}|..\\ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge.tests\\passengerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\service\\moveelevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:service\\moveelevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7CE9A0-9A07-45AE-8EE6-FF8BB45E3D3F}|..\\ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge.tests\\doorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7CE9A0-9A07-45AE-8EE6-FF8BB45E3D3F}|..\\ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge.tests\\elevatorservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\service\\elevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:service\\elevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\service\\doorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:service\\doorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\service\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,17 +38,11 @@
       "AbsoluteMoniker": "D:0:0:{1D7CE9A0-9A07-45AE-8EE6-FF8BB45E3D3F}|..\\ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge.tests\\testlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D7CE9A0-9A07-45AE-8EE6-FF8BB45E3D3F}|..\\ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge.tests\\reportallelevatorstatusestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D7CE9A0-9A07-45AE-8EE6-FF8BB45E3D3F}|..\\ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge.tests\\statusservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D7CE9A0-9A07-45AE-8EE6-FF8BB45E3D3F}|..\\ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge.tests\\passengercounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D7CE9A0-9A07-45AE-8EE6-FF8BB45E3D3F}|..\\ElevatorChallenge.Tests\\ElevatorChallenge.Tests.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge.tests\\elevatormovementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\service\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:service\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\logging\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +53,12 @@
       "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:enums\\elevatorenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\service\\moveelevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:service\\moveelevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\elevatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:elevatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\service\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:service\\statusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\service\\doorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|solutionrelative:service\\doorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99BAF716-F3CE-4C60-BC79-01B6E37A1238}|ElevatorChallenge.csproj|c:\\users\\bongani.hadebe\\source\\repos\\dvtchallenge\\elevatorchallenge\\interface\\ielevatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,115 +84,199 @@
       "DocumentGroups": [
         {
           "DockedHeight": 297,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddPassangerTests.cs",
-              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\AddPassangerTests.cs",
-              "RelativeDocumentMoniker": "..\\ElevatorChallenge.Tests\\AddPassangerTests.cs",
-              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\AddPassangerTests.cs",
-              "RelativeToolTip": "..\\ElevatorChallenge.Tests\\AddPassangerTests.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA3wDEAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MoveElevatorService.cs",
+              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\MoveElevatorService.cs",
+              "RelativeDocumentMoniker": "Service\\MoveElevatorService.cs",
+              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\MoveElevatorService.cs",
+              "RelativeToolTip": "Service\\MoveElevatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T20:08:38.531Z",
+              "WhenOpened": "2025-05-02T08:49:50.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ElevatorMovementTests.cs",
-              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\ElevatorMovementTests.cs",
-              "RelativeDocumentMoniker": "..\\ElevatorChallenge.Tests\\ElevatorMovementTests.cs",
-              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\ElevatorMovementTests.cs",
-              "RelativeToolTip": "..\\ElevatorChallenge.Tests\\ElevatorMovementTests.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAewJYAAABSAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "DoorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\DoorServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\ElevatorChallenge.Tests\\DoorServiceTests.cs",
+              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\DoorServiceTests.cs",
+              "RelativeToolTip": "..\\ElevatorChallenge.Tests\\DoorServiceTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T20:10:09.745Z",
+              "WhenOpened": "2025-05-02T13:38:01.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Elevator.cs",
               "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Models\\Elevator.cs",
               "RelativeDocumentMoniker": "Models\\Elevator.cs",
               "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Models\\Elevator.cs",
               "RelativeToolTip": "Models\\Elevator.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T20:16:00.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PassengerCountTests.cs",
-              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\PassengerCountTests.cs",
-              "RelativeDocumentMoniker": "..\\ElevatorChallenge.Tests\\PassengerCountTests.cs",
-              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\PassengerCountTests.cs",
-              "RelativeToolTip": "..\\ElevatorChallenge.Tests\\PassengerCountTests.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAQwD8AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MoveElevatorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\MoveElevatorServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\ElevatorChallenge.Tests\\MoveElevatorServiceTests.cs",
+              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\MoveElevatorServiceTests.cs",
+              "RelativeToolTip": "..\\ElevatorChallenge.Tests\\MoveElevatorServiceTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA3wDIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T20:08:59.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReportAllElevatorStatusesTests.cs",
-              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\ReportAllElevatorStatusesTests.cs",
-              "RelativeDocumentMoniker": "..\\ElevatorChallenge.Tests\\ReportAllElevatorStatusesTests.cs",
-              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\ReportAllElevatorStatusesTests.cs",
-              "RelativeToolTip": "..\\ElevatorChallenge.Tests\\ReportAllElevatorStatusesTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T20:08:55.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TestLogger.cs",
-              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\TestLogger.cs",
-              "RelativeDocumentMoniker": "..\\ElevatorChallenge.Tests\\TestLogger.cs",
-              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\TestLogger.cs",
-              "RelativeToolTip": "..\\ElevatorChallenge.Tests\\TestLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T20:10:52.703Z",
+              "WhenOpened": "2025-05-02T13:36:15.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PassengerServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\PassengerServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\ElevatorChallenge.Tests\\PassengerServiceTests.cs",
+              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\PassengerServiceTests.cs",
+              "RelativeToolTip": "..\\ElevatorChallenge.Tests\\PassengerServiceTests.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAawB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:35:04.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ElevatorService.cs",
               "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\ElevatorService.cs",
               "RelativeDocumentMoniker": "Service\\ElevatorService.cs",
               "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\ElevatorService.cs",
               "RelativeToolTip": "Service\\ElevatorService.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAuwHkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAA6wHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T19:29:08.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "ElevatorServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\ElevatorServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\ElevatorChallenge.Tests\\ElevatorServiceTests.cs",
+              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\ElevatorServiceTests.cs",
+              "RelativeToolTip": "..\\ElevatorChallenge.Tests\\ElevatorServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:39:33.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoorService.cs",
+              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\DoorService.cs",
+              "RelativeDocumentMoniker": "Service\\DoorService.cs",
+              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\DoorService.cs",
+              "RelativeToolTip": "Service\\DoorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:19:42.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatusServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\StatusServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\ElevatorChallenge.Tests\\StatusServiceTests.cs",
+              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\StatusServiceTests.cs",
+              "RelativeToolTip": "..\\ElevatorChallenge.Tests\\StatusServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:29:54.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatusService.cs",
+              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\StatusService.cs",
+              "RelativeDocumentMoniker": "Service\\StatusService.cs",
+              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\StatusService.cs",
+              "RelativeToolTip": "Service\\StatusService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:49:31.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestLogger.cs",
+              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\TestLogger.cs",
+              "RelativeDocumentMoniker": "..\\ElevatorChallenge.Tests\\TestLogger.cs",
+              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge.Tests\\TestLogger.cs",
+              "RelativeToolTip": "..\\ElevatorChallenge.Tests\\TestLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:10:52.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PassengerService.cs",
               "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\PassengerService.cs",
               "RelativeDocumentMoniker": "Service\\PassengerService.cs",
               "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\PassengerService.cs",
               "RelativeToolTip": "Service\\PassengerService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T09:19:49.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ConsoleLogger.cs",
               "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Logging\\ConsoleLogger.cs",
               "RelativeDocumentMoniker": "Logging\\ConsoleLogger.cs",
@@ -202,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ElevatorEnums.cs",
               "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Enums\\ElevatorEnums.cs",
               "RelativeDocumentMoniker": "Enums\\ElevatorEnums.cs",
@@ -215,20 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MoveElevatorService.cs",
-              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\MoveElevatorService.cs",
-              "RelativeDocumentMoniker": "Service\\MoveElevatorService.cs",
-              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\MoveElevatorService.cs",
-              "RelativeToolTip": "Service\\MoveElevatorService.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAYwA8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:49:50.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -241,20 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StatusService.cs",
-              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\StatusService.cs",
-              "RelativeDocumentMoniker": "Service\\StatusService.cs",
-              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\StatusService.cs",
-              "RelativeToolTip": "Service\\StatusService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:49:31.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ElevatorMenu.cs",
               "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\ElevatorMenu.cs",
               "RelativeDocumentMoniker": "ElevatorMenu.cs",
@@ -267,20 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DoorService.cs",
-              "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\DoorService.cs",
-              "RelativeDocumentMoniker": "Service\\DoorService.cs",
-              "ToolTip": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Service\\DoorService.cs",
-              "RelativeToolTip": "Service\\DoorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T09:19:42.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IElevatorService.cs",
               "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Interface\\IElevatorService.cs",
               "RelativeDocumentMoniker": "Interface\\IElevatorService.cs",
@@ -293,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "UserMenuHandler.cs",
               "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Handlers\\UserMenuHandler.cs",
               "RelativeDocumentMoniker": "Handlers\\UserMenuHandler.cs",
@@ -306,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "MenuHandlerBase.cs",
               "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Handlers\\MenuHandlerBase.cs",
               "RelativeDocumentMoniker": "Handlers\\MenuHandlerBase.cs",
@@ -319,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IMenuHandler.cs",
               "DocumentMoniker": "C:\\Users\\bongani.Hadebe\\source\\repos\\DVTChallenge\\ElevatorChallenge\\Interface\\IMenuHandler.cs",
               "RelativeDocumentMoniker": "Interface\\IMenuHandler.cs",
@@ -329,6 +377,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T20:18:56.086Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 103,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             }
           ]
         }

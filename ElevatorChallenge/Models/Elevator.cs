@@ -30,7 +30,7 @@ namespace ElevatorChallenge.Models
             CurrentFloor = 1;  // Default starting floor
             IsMoving = false;
             DoorsOpen = false;
-            PassengerCount = 11;
+            PassengerCount = 0;
             IsInService = true; 
             LastMaintenanceTime = DateTime.Now;  
             StatusMessage = string.Empty; 
