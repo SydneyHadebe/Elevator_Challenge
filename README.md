@@ -1,12 +1,12 @@
 # Elevator System Simulation
 
-This C# console application simulates the operation of multiple elevators in a large building, aimed at optimizing passenger transportation. The application uses Object-Oriented Programming (OOP) principles to ensure modularity, maintainability, and extensibility. It includes enhanced features such as logging, elevator movement, passenger management, door operations, and status reporting.
+This C# console application simulates the operation of multiple elevators in a large building, aimed at optimizing passenger transportation. The application uses **Object-Oriented Programming (OOP)** principles to ensure modularity, maintainability, and extensibility. It includes enhanced features such as logging, elevator movement, passenger management, door operations, and status reporting.
 
 ---
 
 ## Key Features
 
-### 1. Real-Time Elevator Status
+### 1. **Real-Time Elevator Status**
 - Displays live information about each elevator:
   - **Current Floor**: The elevator's current position.
   - **Direction**: Whether the elevator is moving up, down, or stationary.
@@ -15,37 +15,37 @@ This C# console application simulates the operation of multiple elevators in a l
   - **Doors Status**: Indicates whether the elevator's doors are open or closed.
   - **Maintenance Status**: If the elevator is under maintenance, it is not operational.
 
-### 2. Interactive Elevator Control
+### 2. **Interactive Elevator Control**
 - **Call an Elevator**: Users can request an elevator to a specific floor.
 - **Set Passenger Count**: Users can specify the number of passengers waiting on each floor.
 - **Manage Passengers**: Add or remove passengers from an elevator.
 - **Open/Close Doors**: Control the elevator doors based on user actions.
 
-### 3. Logging and Error Handling
+### 3. **Logging and Error Handling**
 - The system includes comprehensive logging of events such as:
   - **Warning**: When an elevator is over its passenger capacity.
   - **Error**: If an elevator is not found during operations.
   - **Info**: Logs the status of elevators for monitoring.
 
-### 4. Support for Multiple Floors and Elevators
+### 4. **Support for Multiple Floors and Elevators**
 - The system supports buildings with multiple floors and elevators, efficiently handling requests and managing elevator movements.
 
-### 5. Efficient Elevator Dispatching
+### 5. **Efficient Elevator Dispatching**
 - An algorithm efficiently directs the nearest available elevator to a request, minimizing wait times and optimizing elevator usage.
 
-### 6. Passenger Limit Handling
+### 6. **Passenger Limit Handling**
 - Each elevator has a defined maximum passenger capacity, and the system prevents the elevator from exceeding this capacity.
 
-### 7. Maintenance Scheduling
+### 7. **Maintenance Scheduling**
 - Elevators can be set under maintenance, and their operational status can be tracked.
 
-### 8. Consideration for Different Elevator Types
+### 8. **Consideration for Different Elevator Types**
 - The system can accommodate various elevator types such as:
   - **High-Speed Elevators**
   - **Glass Elevators**
   - **Freight Elevators**
 
-### 9. Real-Time Operation
+### 9. **Real-Time Operation**
 - The system provides immediate responses to user input, reflecting real-time elevator movements, status updates, and door operations.
 
 ---
