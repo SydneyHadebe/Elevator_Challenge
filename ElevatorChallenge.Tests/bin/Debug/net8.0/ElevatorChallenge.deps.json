@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ElevatorChallenge/1.0.0": {
+        "runtime": {
+          "ElevatorChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElevatorChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
